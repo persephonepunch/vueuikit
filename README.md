@@ -6,3 +6,12 @@ https://ac-develop.myshopify.com/pages/design
 
 CSS Atomic URL, copy paste update
 https://vueuikit.netlify.app/style.css
+
+
+use CDN Library for Atomic JS/SVG Icons
+<!-- UIkit CSS-REPLACE WITH YOUR CUSTOM COLORS/FONTS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.17.11/dist/css/uikit.min.css" />
+
+<!-- UIkit JS ICON SVG LIBRARY CAN BE ADDED TO -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.17.11/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.17.11/dist/js/uikit-icons.min.js"></script>
