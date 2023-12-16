@@ -4,4 +4,5 @@ https://vueuikit.netlify.app/
 Shopify Theme 
 https://ac-develop.myshopify.com/pages/design
 
-CSS Atomic URL
+CSS Atomic URL, copy paste update
+https://vueuikit.netlify.app/style.css
